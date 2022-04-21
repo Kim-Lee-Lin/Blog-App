@@ -1,2 +1,2 @@
 # Blog-App
-with out node file....need to instal node packcage
+with out node file....instal node pack
